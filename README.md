@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2014<br>📚 I'm currently learning Vue.js<br>🎯 Goals: Never stop learning<br>🎲 Fun fact: Pure Motorcycle enthusiast</p>
+<p align="left">✨ Creating bugs since 2014<br>📚 I'm currently learning FastHTML<br>🎯 Goals: Never stop learning<br>🎲 Fun fact: Pure Motorcycle enthusiast</p>
 
 ###
 
