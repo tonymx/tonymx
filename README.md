@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Tony Diaz and I'm a professional Python developer, from Mexico</p>
+<p align="left">My name is Tony Diaz and I'm a professional Python developer & automation engineer from Mexico</p>
 
 ###
 
